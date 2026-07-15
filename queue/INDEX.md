@@ -18,12 +18,12 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `slice1-eng-001-julian-day` — Julian Day arithmetic | 2 | todo | — |
-| `slice1-eng-002-delta-t` — ΔT (TT−UT1) model | 2 | todo | 001 |
-| `slice1-eng-003-sidereal-time` — sidereal time (GMST/LMST) | 2 | todo | 001 |
-| `slice1-eng-004-timezone-history` — timezone history & civil offset | 2 | todo | 001 |
-| `slice1-eng-005-true-solar-time` — 真太阳时 | 2 | todo | 001, 004 |
-| `slice1-eng-006-jieqi-boundaries` — 节气 boundaries | 2 | todo | 001, 002 |
+| `slice1-eng-001-julian-day` — Julian Day arithmetic | 2 | **done** (session 0002) | — |
+| `slice1-eng-002-delta-t` — ΔT (TT−UT1) model | 2 | todo (unblocked) | ~~001~~ |
+| `slice1-eng-003-sidereal-time` — sidereal time (GMST/LMST) | 2 | todo (unblocked) | ~~001~~ |
+| `slice1-eng-004-timezone-history` — timezone history & civil offset | 2 | todo (unblocked) | ~~001~~ |
+| `slice1-eng-005-true-solar-time` — 真太阳时 | 2 | todo | ~~001~~, 004 |
+| `slice1-eng-006-jieqi-boundaries` — 节气 boundaries | 2 | todo | ~~001~~, 002 |
 | `slice1-eng-007-tricky-fixtures` — tricky-case fixture bank | 2 | todo | 004, 005, 006 |
 | `slice1-eng-008-time-module-api` — unify into one module, two clients | 2 | blocked | 001–006 |
 | `slice1-train-001-timezone-conversion-drills` — researcher time-conversion drills | 1 | todo | — |

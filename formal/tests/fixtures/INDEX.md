@@ -8,4 +8,4 @@ Subdir: `charts/` = anonymized test chart bank with reliability flags.
 
 ## Contents
 
-_(empty — populated as work lands here)_
+- `julian_day_fixtures.md` — Julian Day known-answer table with per-row source attribution (Meeus ch.7 + independent epoch definitions); all rows pending-audit. Mirrors `KNOWN_JD` in `../test_julian_day.py`.

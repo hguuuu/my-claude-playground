@@ -8,4 +8,4 @@ Session-start command: `bash formal/tests/run_tests.sh`. See runner + fixtures/.
 
 ## Contents
 
-_(empty — populated as work lands here)_
+- `test_julian_day.py` — known-answer + property tests for `formal/core/calendar/julian_day.py` (Meeus ch.7 epochs, 1582 reform gap, round trips, JDN arithmetic, weekday). Fixtures: `fixtures/julian_day_fixtures.md`.
