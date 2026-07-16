@@ -2,7 +2,7 @@
 task_id: meta-001
 type: engineering
 tier: 2
-status: in-progress  # session 0004, 2026-07-16; researcher-injected task
+status: done  # session 0004, 2026-07-16
 depends_on: []
 lang: en
 date_added: 2026-07-16

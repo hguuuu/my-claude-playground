@@ -29,6 +29,13 @@
 | `slice1-train-001-timezone-conversion-drills` — researcher time-conversion drills | 1 | todo | — |
 | `slice1-train-002-timetable-usage-drills` — researcher 万年历 usage drills | 1 | todo | — |
 
+## Meta / methodology
+
+| task | tier | status | depends on |
+|------|------|--------|-----------|
+| `meta-001-source-reliability-metric` — reliability metric + encounter register | 2 | **done** (session 0004) | — |
+| `meta-002-wenxianxue-subgrading` — A-class sub-grading from 文献学 (deferred half of meta-001) | 2 | todo | — |
+
 ## Notes
 - The 流派 taxonomy is a Phase-0 **output**, not a founding assumption — `/schools/` is intentionally empty until `phase0-001` runs.
 - Suggested first depth task after review: `slice1-eng-001` (numeric spine) or `phase0-001` (map before digging). Researcher to authorize.
