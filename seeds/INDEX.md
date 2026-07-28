@@ -8,9 +8,9 @@ Tier 1. When a topic activates, its seed file becomes the Phase-0 starting brief
 
 ## Contents
 
-- `scientific-perspective.md` — empirical / academic-psychology reading of the traditions (entry point: Columbia spirituality mind-body program). `seed-scientific-perspective`
-- `tarot-world.md` — tarot as world-construction, parallel workstream. `seed-tarot-world`
-- `七政四余.md`
-- `六爻.md`
-- `紫微斗数.md`
-- `风水.md`
+| seed | note |
+|---|---|
+| `风水.md` `六爻.md` `紫微斗数.md` `七政四余.md` `tarot-world.md` | founding stubs (session 0001) |
+| `lenormand.md` | added session 0003 — active *study* topic (study P4), not yet a research workstream |
+| `易经.md` | added session 0003 — 占筮实践 + 文本传统; related to but distinct from 六爻 |
+| `scientific-perspective.md` | added session 0009 — empirical/academic-psychology reading of the traditions; entry point: Columbia spirituality mind-body program (unverified) |

@@ -14,7 +14,7 @@ component: training/time-conversion
 **One line:** Haiwen's own thorough time-conversion calculation exercises (clock ↔ standard-meridian ↔ 真太阳时 ↔ UT), tied to her chart-calculation course (§7).
 
 ## Deliverable
-- A worked exercise set + answer key (course-aligned) under `foundations/calendar/`, usable by hand and later checkable against slice1-eng-005 output.
+- A worked exercise set + answer key (course-aligned) under `/study/quizzes/`, usable by hand and later checkable against slice1-eng-005 output. (Re-pointed from `foundations/calendar/` per DESIGN §11a.6 — training drills are study artifacts; objective answer keys still double as human-checkable fixtures for the time module.)
 
 ## Done-when
 - Exercises + answers filed; cross-linked to the eng tasks they validate.

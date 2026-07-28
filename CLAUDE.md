@@ -38,8 +38,8 @@ A long-horizon research system: 八字命理 (Chinese corpus), Western astrology
 
 ## Session ritual — every session, no exceptions
 
-**Open:** read this file → read the last few entries in `/log/sessions/` → run the test suite → take exactly ONE task from `/queue/`.
-**Close:** write a session log entry (what, why, decisions, next) → update `/queue/` → commit per the rules below.
+**Open:** read this file → read `/STATUS.md` → read the last few entries in `/log/sessions/` → run the test suite → take exactly ONE task from `/queue/`.
+**Close:** write a session log entry (what, why, decisions, next) → **if the task has a study `origin:`, write the answer back** (flip the `未考` tag in the study record; mark the question resolved in `/study/questions.md`) → update `/queue/` → regenerate `/STATUS.md` (archive the outgoing copy to `/log/status-archive/`) → commit per the rules below.
 
 Task granularity: one term, one source, one chapter. Never large enough to half-finish ambiguously.
 
@@ -50,6 +50,8 @@ Session types (prefix log + commit message):
 - `synthesis:` write across existing notes ONLY; no new claims from memory
 - `engineering:` formal layer; tests mandatory
 - `audit:` re-verify earlier citations/claims against `/sources/`; clear or flag `unverified` tags
+- `study:` study-system activity (`/study/` — journal, reviews, quizzes, cases). Exempt from the one-queue-task ritual; still runs the test suite before commit. Governed by `/study/RULES.md`.
+- `meta:` work ON the system rather than in it — methodology specs, queue/task definition & grooming, INDEX/log housekeeping, schema or constitution amendments. No research claims may enter the corpus under `meta:`; test suite still runs; tier follows the touched surface (constitution/schema/metric = Tier 2; queue/INDEX grooming = Tier 1).
 
 Negative results (disproven rules, misattributions, failed leads) → `/log/dead-ends.md`. High value; never silently drop.
 
@@ -59,6 +61,10 @@ Commit = one completed task: content + session log + queue update, referencing t
 
 - **Tier 1 (auto-commit to main):** additive leaf content — source notes, lexicon entries, seed appends, logs, exploratory analysis.
 - **Tier 2 (branch + researcher review):** load-bearing changes — foundational tables, time module, rule specs, `/foundations/boundary.md`, this file, the brief, provenance schema, hypothesis promotions. Open a branch; end the session log with “ready for review.”
+
+## Study system (`/study/`)
+
+The researcher's learning engine, integrated per `study/DESIGN.md` (Tier-2), operated per `study/RULES.md`. Constitution-level facts: **study material is never a verified source; interpretive practice data is never research evidence; study content enters the corpus only by promotion — written fresh from verified sources.** The assistant scaffolds study work, never interprets. Study→research questions flow through `/study/questions.md` into `/queue/` (task `origin:` field); answers are written back at session close. Root `/STATUS.md` is the generated two-engine dashboard.
 
 ## Key structural facts
 

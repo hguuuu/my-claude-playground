@@ -2,7 +2,7 @@
 task_id: phase0-001
 type: phase0
 tier: 1
-status: done
+status: done  # session 0005, 2026-07-15
 depends_on: []
 spawns: [phase0-004]
 lang: zh
