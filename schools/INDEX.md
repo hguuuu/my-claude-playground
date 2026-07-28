@@ -1,11 +1,31 @@
 # INDEX — /schools
 
-> Map-of-content stub. Keep current: this is how sessions orient without reading everything (PROJECT_BRIEF §2).
+> Map-of-content. One directory per 流派 (profile / sources / rules-commentary / evaluation).
+> 本页流派条目为 **phase0-001 输出（2026-07-15），允许出错**，随 depth-work 修正；全部 `verification: unverified`。
 
-**Purpose:** One directory per 流派 (profile / sources / rules-commentary / evaluation).
+## 调研笔记（本目录）
 
-Empty by design: the 流派 taxonomy is a Phase-0 research OUTPUT, not a founding assumption. Directories are added as phase0 enumeration identifies schools.
+- `流派枚举-phase0.md` — 方法族分组的流派全景清单＋谱系事实＋20世纪再包装嫌疑清单（负面结果候选）
+- `方法族分歧维度-phase0.md` — 流派间12条分歧轴（D1–D12）＋共享基础清单（boundary.md 前置素材）
 
-## Contents
+## 流派目录（已建占位，待 phase0-004 逐个 profile）
 
-_(empty — populated as work lands here)_
+### 禄命古法族
+- `禄命古法/` — 年柱本位、干禄支命纳音身、重神煞；子平法之前身（唐·李虚中传统）
+
+### 子平体系——格局线
+- `格局派/` — 月令提纲取格、成败救应；《渊海子平》《三命通会》《神峰通考》《子平真诠》一线（内含病药、存古诸支）
+
+### 子平体系——旺衰/调候线
+- `旺衰派/` — 日主强弱扶抑求平衡；《滴天髓》传统（任铁樵注为节点；「传统」性依赖民国徐乐吾评注层——层次错置嫌疑，见枚举笔记）
+- `调候派/` — 寒暖燥湿调候为纲；《栏江网》→《穷通宝鉴》/《造化元钥》
+
+### 20世纪末以来品牌化体系
+- `盲派/` — 段氏「做功」体系（2002–）；古传谱系不可考、核心术语疑为新造（负面结果候选第1条）
+- `新派/` — 李涵辰体系（2003–）；百神论等自认独创（负面结果候选第2条）
+
+### 已识别、暂未立目录（researcher 确认后再建）
+- 民国整理层（徐乐吾/袁树珊/韦千里）——注释整理层非流派，但徐注实质塑造旺衰读法
+- 清初删繁一支（陈素庵《命理约言》）；纳音神煞外格一支（《星平会海》/《兰台妙选》）
+- 现代旺衰普及（邵伟华等）；当代格局复古（黄大陆等）；台湾实务/文献派（梁湘润等）；十神心理化（何建忠）
+- 对照项：江相派（行骗组织，非命理流派——民间案例叙事的替代解释来源）

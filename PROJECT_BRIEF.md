@@ -187,6 +187,7 @@ Session types (tag in log + commit message):
 - `synthesis:` — write across existing notes ONLY; no new claims from memory
 - `engineering:` — formal layer work; tests mandatory
 - `audit:` — re-verify citations and claims from earlier sessions against `/sources/`; clear `unverified` tags or flag problems; run periodically, this is what makes the corpus trustworthy over time
+- `meta:` — work on the research system itself rather than in it: methodology specs, queue/task definition and grooming, INDEX/log housekeeping, schema/constitution amendments. No research claims enter the corpus under `meta:`; tier follows the touched surface. (Added 2026-07-28 by researcher decision; `study:` is defined in `study/DESIGN.md` §11.)
 
 Negative results go to `/log/dead-ends.md` — disproven rules, misattributions (“claimed classical rule is a 20th-century invention”), failed leads. These are high-value findings; never silently drop them.
 
@@ -199,7 +200,7 @@ Negative results go to `/log/dead-ends.md` — disproven rules, misattributions 
 - **Tier 1 — auto-commit to main:** additive leaf content. Source notes, lexicon entries, seed appends, log entries, exploratory analysis. Low blast radius.
 - **Tier 2 — branch + researcher review:** load-bearing changes. Foundational tables, time module, rule spec modifications, `boundary.md` revisions, anything touching the constitution or provenance schema, promotion of findings to `/formal/hypotheses/`. Open a branch, do the work, end the session log with “ready for review.” The researcher merges.
 
-Conventions: commit messages follow the language policy (八字 content commits in Chinese) and are prefixed with session type (`intake:`, `synthesis:`, `engineering:`, `audit:`, `phase0:`).
+Conventions: commit messages follow the language policy (八字 content commits in Chinese) and are prefixed with session type (`intake:`, `synthesis:`, `engineering:`, `audit:`, `phase0:`, `study:`, `meta:`).
 
 -----
 
