@@ -216,7 +216,7 @@ Regeneration points: every weekly review, every research-session close, and on d
 | Daily | **No** — by design | The daily ritual (draw, journal template, FSRS cards, one recall prompt) is deliberately Claude-free. Protecting a friction-free daily habit is worth more than any daily optimization; the template already tells you what to do. |
 | Weekly / biweekly / monthly | **Yes** — these ARE Claude sessions | Review, mentor-prep, quiz batches, blind-test administration, cross-lens sessions are Claude-driven by design (§8.3). |
 | Anytime | **Optional** | "What's next?" / "Where am I on X?" — answered from STATUS.md + skills.md + queue in seconds, any session, no ceremony. Every session I open on this repo starts by reading STATUS.md (file 07's rule), so orientation is automatic. |
-| Scheduled (opt-in) | Claude comes to **you** | This environment supports scheduled Routines: a weekly firing that opens the review session and pings you, a biweekly mentor-prep reminder. Off by default — enable when the habit is stable, not before (07 §6: habit before tooling). |
+| Scheduled (opt-in) | Claude comes to **you** | This environment supports scheduled Routines: a weekly firing that opens the review session and pings you, a biweekly mentor-prep reminder. Off by default — enable when the habit is stable, not before (07 §6: habit before tooling). **Standing follow-up:** revisit enabling these ~4 weeks after migration (≈ late Aug 2026); carried in STATUS.md next-actions until resolved. |
 
 ### 8.5 Perspective boundaries — what Claude is and is not
 
