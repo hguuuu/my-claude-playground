@@ -2,7 +2,7 @@
 task_id: slice1-eng-001
 type: engineering
 tier: 2
-status: done  # session 0002, 2026-07-15
+status: done  # session 0004, 2026-07-15
 depends_on: []
 lang: en
 date_added: 2026-07-13

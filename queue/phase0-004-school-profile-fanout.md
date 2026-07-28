@@ -2,7 +2,7 @@
 task_id: phase0-004
 type: phase0
 tier: 1
-status: todo  # unblocked by phase0-001 (session 0003)
+status: todo  # unblocked by phase0-001 (session 0005)
 depends_on: [phase0-001]
 lang: zh
 date_added: 2026-07-13

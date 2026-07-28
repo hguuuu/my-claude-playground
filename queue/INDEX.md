@@ -11,7 +11,7 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `phase0-001-liupai-enumeration` — 八字流派与方法族枚举 | 1 | **done** (session 0003) | — |
+| `phase0-001-liupai-enumeration` — 八字流派与方法族枚举 | 1 | **done** (session 0005) | — |
 | `phase0-002-source-obtainability` — 一手文献可得性与存续清查 | 1 | todo | — |
 | `phase0-003-draft-boundary` — 起草 boundary.md v0 | 2 | blocked | ~~001~~, 002 |
 | `phase0-004-school-profile-fanout` — 逐流派一页 profile（fan-out） | 1 | todo (unblocked) | ~~001~~ |
@@ -20,7 +20,7 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `slice1-eng-001-julian-day` — Julian Day arithmetic | 2 | **done** (session 0002) | — |
+| `slice1-eng-001-julian-day` — Julian Day arithmetic | 2 | **done** (session 0004) | — |
 | `slice1-eng-002-delta-t` — ΔT (TT−UT1) model | 2 | todo (unblocked) | ~~001~~ |
 | `slice1-eng-003-sidereal-time` — sidereal time (GMST/LMST) | 2 | todo (unblocked) | ~~001~~ |
 | `slice1-eng-004-timezone-history` — timezone history & civil offset | 2 | todo (unblocked) | ~~001~~ |
@@ -35,7 +35,7 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `meta-001-source-reliability-metric` — reliability metric + encounter register | 2 | **done** (session 0004) | — |
+| `meta-001-source-reliability-metric` — reliability metric + encounter register | 2 | **done** (session 0006) | — |
 | `meta-002-wenxianxue-subgrading` — A-class sub-grading from 文献学 (deferred half of meta-001) | 2 | todo | — |
 
 ## Study track — researcher's parallel study plan (`/study/`)

@@ -1,6 +1,6 @@
 # RELIABILITY.md — source-reliability metric
 
-> **Status: Tier-2** (schema-adjacent — adds a source-level labeling layer alongside claim-level `verification`). v1, session 0004 (2026-07-16), per researcher directive: *keep every encountered resource, including unconfirmed ones; label all sources, past and future.*
+> **Status: Tier-2** (schema-adjacent — adds a source-level labeling layer alongside claim-level `verification`). v1, session 0006 (2026-07-16), per researcher directive: *keep every encountered resource, including unconfirmed ones; label all sources, past and future.*
 > Grounded in a deep-research survey of established grading frameworks (16 adversarially-verified findings; see §5). One planned section is deferred (§6).
 
 ## 1. The two-layer principle (load-bearing)
