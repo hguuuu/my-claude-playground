@@ -29,6 +29,12 @@
 | `slice1-train-001-timezone-conversion-drills` — researcher time-conversion drills | 1 | todo | — |
 | `slice1-train-002-timetable-usage-drills` — researcher 万年历 usage drills | 1 | todo | — |
 
+## Study track — researcher's parallel study plan (`/study/`)
+
+| task | tier | status | depends on |
+|------|------|--------|-----------|
+| `study-001-process-inbox` — process the first `/study/inbox/` upload | 1 | blocked | researcher upload |
+
 ## Notes
 - The 流派 taxonomy is a Phase-0 **output**, not a founding assumption — `/schools/` is intentionally empty until `phase0-001` runs.
 - Suggested first depth task after review: `slice1-eng-001` (numeric spine) or `phase0-001` (map before digging). Researcher to authorize.
