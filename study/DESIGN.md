@@ -218,7 +218,20 @@ Regeneration points: every weekly review, every research-session close, and on d
 | Anytime | **Optional** | "What's next?" / "Where am I on X?" — answered from STATUS.md + skills.md + queue in seconds, any session, no ceremony. Every session I open on this repo starts by reading STATUS.md (file 07's rule), so orientation is automatic. |
 | Scheduled (opt-in) | Claude comes to **you** | This environment supports scheduled Routines: a weekly firing that opens the review session and pings you, a biweekly mentor-prep reminder. Off by default — enable when the habit is stable, not before (07 §6: habit before tooling). **Standing follow-up:** revisit enabling these ~4 weeks after migration (≈ late Aug 2026); carried in STATUS.md next-actions until resolved. |
 
-### 8.5 Perspective boundaries — what Claude is and is not
+### 8.5 Reading-time knowledge & discussion
+
+Where what you learn while reading goes, and how discussion fits:
+
+1. **Notes first, discussion second — always.** The literature note (own words, 2–5 sentences per idea, source-anchored) is written *before* discussing the material with Claude. This is the same production-before-reference rule as the daily draw (interpret before opening the book): own-words summarizing IS the retrieval practice and the teach-back prep. Discussion after your note deepens it; discussion instead of your note outsources the learning — and a Claude summary of a book you're reading defeats the reason you're reading it.
+2. **Discussion is a first-class activity, not a guilty pleasure.** Legitimate uses: Socratic pressure on your understanding ("what would Dummett say about this claim of Papus's?"), corpus retrieval ("do we have the primary text this cites?"), scholarly context, comprehension quizzing, connecting today's chapter to earlier notes. It can happen here (repo session) or in the Claude.ai project (per file 07) — the venue doesn't matter because of rule 3.
+3. **The harvest rule: chats are ephemeral, so every substantive discussion ends with a distillation into the file.** 3–5 lines into the relevant literature note (or a permanent note, if the insight is cross-system). In a repo session I draft the takeaway and append it on your approval; from Claude.ai chats you paste it yourself. A discussion that produced nothing worth 3 lines needed no harvest; one that did and wasn't harvested is lost by design — that's file 07 §6's first failure mode.
+4. **Literature notes keep three strata, never blended** (the provenance instinct, applied in miniature):
+   - **What the book says** — source-anchored, quoted in the source language (§4).
+   - **What I think** — your own insights; mixed language legitimate.
+   - **What discussion surfaced** — marked as such. Any factual claim Claude contributed carries the usual discipline: corpus-cited, or labeled unsourced and dropped into `questions.md`. An insight born in conversation must never end up looking like something the book said.
+5. Cross-system sparks found mid-reading go where they always go: `comparative-table.md` (working row) or `questions.md` (needs sourcing) — one line, keep reading.
+
+### 8.6 Perspective boundaries — what Claude is and is not
 
 **Is:** coverage auditor (cards never drawn, nodes untested, claims 未考), consistency checker ("your March note says X, yesterday assumes Y — reconcile," with dates, never silently picking), vagueness detector (unfalsifiable-as-stated predictions flagged before logging), Socratic examiner, structural comparator against documented readings, retriever of documented school positions.
 **Is not:** a judge of whether a reading is *right*, an author of interpretations, a source of school positions beyond what is documented — and never a generator of classical quotes from memory.
