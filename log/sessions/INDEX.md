@@ -22,5 +22,6 @@ Tier 1. 八字 session logs in Chinese; engineering-session logs may be either l
 | `0004-2026-07-15-slice1-eng-001` | 2026-07-15 | `engineering:` | Julian Day arithmetic module + tests | ready for review |
 | `0005-2026-07-15-phase0-001` | 2026-07-15 | `phase0:` | 八字流派与方法族枚举（含对抗性核查补记） | ready for review |
 | `0006-2026-07-16-meta-001` | 2026-07-16 | `engineering:` | source-reliability metric + encounter register | ready for review |
+| `0007-2026-07-28-meta-prefix` | 2026-07-28 | `meta:` | add `meta:` session type (constitution amendment) | ready for review |
 
 Note: sessions 0004–0006 predate 0002–0003 in wall-clock time — the sequence reflects merge order, the dates reflect when the work happened (see convention above).

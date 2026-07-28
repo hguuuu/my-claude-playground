@@ -51,6 +51,7 @@ Session types (prefix log + commit message):
 - `engineering:` formal layer; tests mandatory
 - `audit:` re-verify earlier citations/claims against `/sources/`; clear or flag `unverified` tags
 - `study:` study-system activity (`/study/` — journal, reviews, quizzes, cases). Exempt from the one-queue-task ritual; still runs the test suite before commit. Governed by `/study/RULES.md`.
+- `meta:` work ON the system rather than in it — methodology specs, queue/task definition & grooming, INDEX/log housekeeping, schema or constitution amendments. No research claims may enter the corpus under `meta:`; test suite still runs; tier follows the touched surface (constitution/schema/metric = Tier 2; queue/INDEX grooming = Tier 1).
 
 Negative results (disproven rules, misattributions, failed leads) → `/log/dead-ends.md`. High value; never silently drop.
 
