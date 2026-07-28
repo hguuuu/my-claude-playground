@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.obsidian/workspace*
+# derived index — rebuildable cache, never truth (study/RULES.md §9)
+*.db

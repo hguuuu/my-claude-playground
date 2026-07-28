@@ -3,7 +3,9 @@
 > Map-of-content. One task per file, small granularity (one term / one source / one module component).
 > Take exactly ONE task per session (§8). Update this map when tasks are added, taken, or completed.
 
-**Legend:** status `todo` = ready · `blocked` = waiting on a dependency · Tier 2 = branch + researcher review before merge.
+**Legend:** status `todo` = ready · `blocked` = waiting on a dependency · `done` = completed (row kept for the record) · Tier 2 = branch + researcher review before merge.
+
+**`origin:` convention:** tasks born from study questions carry `origin: study/questions.md#<entry>` in frontmatter. Session close then writes the answer back (CLAUDE.md ritual). Study-originated tasks enter as *proposals* at weekly review — they never jump the queue; the researcher authorizes what runs.
 
 ## Phase 0 — survey before depth (§6)
 
@@ -33,7 +35,9 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `study-001-process-inbox` — process the first `/study/inbox/` upload | 1 | blocked | researcher upload |
+| `study-001-process-inbox` — migration executed per `study/DESIGN.md` §12 (session 0003) | 2 | done | — |
+
+Note: `slice1-train-001/002` deliverables re-pointed into `/study/quizzes/` (DESIGN §11a.6); still cross-check the time module.
 
 ## Notes
 - The 流派 taxonomy is a Phase-0 **output**, not a founding assumption — `/schools/` is intentionally empty until `phase0-001` runs.

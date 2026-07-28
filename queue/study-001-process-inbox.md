@@ -1,13 +1,16 @@
 ---
 task_id: study-001
-type: intake
-tier: 1
-status: blocked
-depends_on: [researcher upload to /study/inbox/]
+type: engineering
+tier: 2
+status: done
+depends_on: []
 lang: en
 date_added: 2026-07-28
-component: study/intake
+date_done: 2026-07-28
+component: study/migration
 ---
+
+> **DONE (session 0003).** Scope grew from "file the inbox upload" to executing the full migration plan of `study/DESIGN.md` §12, after the design discussion with the researcher (sessions 0002–0003). Tier re-classed 1→2 accordingly (constitution amendment + structural work). Original definition kept below for the record.
 
 # study-001 · Process the first `/study/inbox/` upload
 
