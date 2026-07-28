@@ -19,7 +19,7 @@ Processed items are removed from `inbox/` so that whatever remains here is alway
 
 ## Contents
 
-**Upload in progress — partial.** First 5 of 8 files of the researcher's divination study plan received 2026-07-28. Per its own `00-README.md`, files `05` (phase 4), `06` (phases 5–7 outline), and `07` (study system & knowledge base — the file that specifies the plan's own intended repo architecture) are still to come. `study-001` stays blocked until the set is complete.
+**Upload complete.** All 8 files of the researcher's divination study plan received 2026-07-28. `study-001` is unblocked; filing awaits the study↔research restructuring discussion with the researcher (file `07` specifies the plan's own intended repo architecture, which must be reconciled with this repo's layout before anything moves out of the inbox).
 
 | file | received | note |
 |------|----------|------|
@@ -28,5 +28,8 @@ Processed items are removed from `inbox/` so that whatever remains here is alway
 | `02-phase-1-rws-application-and-foundations.md` | 2026-07-28 | current phase |
 | `03-phase-2-full-deck-and-history.md` | 2026-07-28 | committed |
 | `04-phase-3-marseille-and-iching.md` | 2026-07-28 | placeholder phase |
+| `05-phase-4-astrology-and-lenormand.md` | 2026-07-28 | placeholder phase |
+| `06-phases-5-7-outline.md` | 2026-07-28 | deliberately high-level |
+| `07-study-system-and-knowledge-base.md` | 2026-07-28 | journal system, repo architecture, tooling roadmap |
 
 Filenames restored to the set's own naming (per the table in `00-README.md`); content unmodified, as-is per inbox rules.
