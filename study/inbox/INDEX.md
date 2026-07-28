@@ -19,4 +19,14 @@ Processed items are removed from `inbox/` so that whatever remains here is alway
 
 ## Contents
 
-_(empty — awaiting upload)_
+**Upload in progress — partial.** First 5 of 8 files of the researcher's divination study plan received 2026-07-28. Per its own `00-README.md`, files `05` (phase 4), `06` (phases 5–7 outline), and `07` (study system & knowledge base — the file that specifies the plan's own intended repo architecture) are still to come. `study-001` stays blocked until the set is complete.
+
+| file | received | note |
+|------|----------|------|
+| `00-README.md` | 2026-07-28 | document index for the 8-file set |
+| `01-study-plan-overview.md` | 2026-07-28 | goals, skeleton, timeline, dependency logic, assessment |
+| `02-phase-1-rws-application-and-foundations.md` | 2026-07-28 | current phase |
+| `03-phase-2-full-deck-and-history.md` | 2026-07-28 | committed |
+| `04-phase-3-marseille-and-iching.md` | 2026-07-28 | placeholder phase |
+
+Filenames restored to the set's own naming (per the table in `00-README.md`); content unmodified, as-is per inbox rules.
