@@ -9,10 +9,10 @@
 
 | task | tier | status | depends on |
 |------|------|--------|-----------|
-| `phase0-001-liupai-enumeration` — 八字流派与方法族枚举 | 1 | todo | — |
+| `phase0-001-liupai-enumeration` — 八字流派与方法族枚举 | 1 | **done** (s0002) | — |
 | `phase0-002-source-obtainability` — 一手文献可得性与存续清查 | 1 | todo | — |
 | `phase0-003-draft-boundary` — 起草 boundary.md v0 | 2 | blocked | 001, 002 |
-| `phase0-004-school-profile-fanout` — 逐流派一页 profile（fan-out） | 1 | blocked | 001 |
+| `phase0-004-school-profile-fanout` — 逐流派一页 profile（fan-out） | 1 | todo (unblocked) | 001 ✓ |
 
 ## Slice 1 — calendar / time module (§7), one component per task
 

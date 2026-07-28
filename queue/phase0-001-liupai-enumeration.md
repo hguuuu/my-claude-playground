@@ -2,7 +2,7 @@
 task_id: phase0-001
 type: phase0
 tier: 1
-status: todo
+status: done
 depends_on: []
 spawns: [phase0-004]
 lang: zh
