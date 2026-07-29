@@ -9,7 +9,7 @@
 
 - The **source layer** (this metric) labels *where information came from* — attached in `/sources/register/`.
 - The **claim layer** (`verification: verified | unverified` in note frontmatter, §1.2 of the brief) records whether *a specific claim* has been checked against a primary text in `/sources/`.
-- A reliable-class source can carry a wrong claim; a marketing page can carry a true one. This mirrors NATO doctrine requiring the two dimensions be estimated independently (STANAG 2003 / AJP-2.1), and GRADE-CERQual's model of grading synthesized findings separately from the documents beneath them. It is the same discipline as our four-axes rule: different kinds of evidence never collapse into one score.
+- A reliable-class source can carry a wrong claim; a marketing page can carry a true one. This mirrors NATO doctrine requiring the two dimensions be estimated independently (STANAG 2003 / AJP-2.1), and GRADE-CERQual's model of grading synthesized findings separately from the documents beneath them. It is the same discipline as our four-axes rule: different kinds of evidence never collapse into one score. Researcher-decision grounding: `/log/decisions/2026-07-28-source-credibility-principle.md` (credibility is graded relatively — transmission confidence + perspective-of-source; no absolute truth value; divergence between sources is data).
 
 ## 2. Label format
 

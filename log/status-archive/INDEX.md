@@ -4,4 +4,4 @@
 
 ## Contents
 
-_(empty — first archive lands at the first regeneration)_
+- `2026-07-28.md` — initial STATUS (generated at study migration s0003; archived at s0009 adoption). Predates PR #3's merge; does not reflect s0004–s0008.
