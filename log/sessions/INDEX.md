@@ -24,7 +24,7 @@ Tier 1. 八字 session logs in Chinese; engineering-session logs may be either l
 | `0006-2026-07-16-meta-001` | 2026-07-16 | `engineering:` | source-reliability metric + encounter register | merged (PR #3) |
 | `0007-2026-07-28-meta-prefix` | 2026-07-28 | `meta:` | add `meta:` session type (constitution amendment) | merged (PR #3) |
 | `0008-2026-07-28-pre-pr-audit` | 2026-07-28 | `audit:` | 合并前全量审计（拦截2处经典直引；清除pyc） | merged (PR #3) |
-| `0009-2026-07-29-pr4-adoption` | 2026-07-29 | `meta:`+`phase0:` | review PR #4 → close unmerged, adopt 3 files refined; ledgers/STATUS; 002 redo launched | on branch |
+| `0009-2026-07-29-pr4-adoption` | 2026-07-29 | `meta:`+`phase0:` | review PR #4 → close unmerged, adopt 3 files refined; ledgers/STATUS; 002 redo prepared (launch held) | on branch |
 
 Note: the unmerged reference branch (`claude/columbia-spirituality-program-ny7ccd`, PR #4 closed) internally used numbers 0009–0011; those never entered this ledger — see `/log/decisions/2026-07-29-pr4-adoption.md`.
 

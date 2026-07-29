@@ -2,7 +2,7 @@
 task_id: phase0-002
 type: phase0
 tier: 1
-status: in-progress  # s0010 redo, 2026-07-29
+status: todo  # redo requirements set 2026-07-29; launch awaits researcher go
 depends_on: []
 lang: zh
 date_added: 2026-07-13

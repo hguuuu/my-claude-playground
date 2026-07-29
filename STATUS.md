@@ -16,7 +16,7 @@
 
 - **Done:** `phase0-001` (s0005) · `slice1-eng-001` (s0004) · `meta-001` (s0006) · `study-001` (s0003)
 - **Last session:** 0009 `meta:`+`phase0:` — PR #4 reviewed and closed **unmerged**; its 3 content files adopted with refinements (三问互补假说, scientific-perspective seed, credibility-principle decision + RELIABILITY cross-links); reference branch kept (002 v0 at `8a9ccec` — not citable)
-- **In progress:** `phase0-002` redo (s0010, deep-research grade: register rows + RELIABILITY labels + three-way obtainability verdicts; fresh run, then diff vs withdrawn v0)
+- **Prepared, launch on researcher go:** `phase0-002` redo (deep-research grade: register rows + RELIABILITY labels + three-way obtainability verdicts; fresh run, then diff vs withdrawn v0)
 - **Ready (Tier 1):** `phase0-004` profile fan-out (against s0005's 6 schools)
 - **Ready (Tier 2, researcher must authorize):** `slice1-eng-002/003/004` · `meta-002`
 - **Blocked:** `phase0-003` boundary.md (on 002)
@@ -28,7 +28,7 @@
 
 ## Next actions (ranked)
 
-1. **Researcher: review this branch** (adoption + 002 redo output when it lands).
+1. **Researcher: review this branch** (adoption commits) and **give the go for the 002 redo** when ready.
 2. **`phase0-004`** — natural continuation of s0005; can run parallel to 002.
 3. **Hold the first weekly review** (study engine) — unchanged.
 4. **Standing:** revisit scheduled Routines ≈ late Aug 2026 (DESIGN §8.4).
