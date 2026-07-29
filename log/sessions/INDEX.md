@@ -27,7 +27,7 @@ Tier 1. 八字 session logs in Chinese; engineering-session logs may be either l
 | `0007-2026-07-28-meta-prefix` | 2026-07-28 | `meta:` | add `meta:` session type (constitution amendment) | merged (PR #3) |
 | `0008-2026-07-28-pre-pr-audit` | 2026-07-28 | `audit:` | 合并前全量审计（拦截2处经典直引；清除pyc） | merged (PR #3) |
 | `0009-2026-07-28-phase0-001-dup` | 2026-07-28 | `phase0:` | 流派枚举（重复执行，凭通识）——分类法已由 s0005 取代；三问互补假说存续 | superseded (record kept) |
-| `0010-2026-07-28-phase0-002` | 2026-07-28 | `phase0:` | 一手文献可得性清查 → survey + 6 intake 任务 | done·provisional（或以 deep-research 重做） |
+| `0010-2026-07-28-phase0-002` | 2026-07-28 | `phase0:` | 一手文献可得性清查（v0 输出已撤回出 PR，或以 deep-research 重做；见 git history） | run recorded; output withdrawn |
 | `0011-2026-07-28-merge-sync` | 2026-07-28 | `meta:` | merge main; adjudicate duplicated phase0-001; renumber; STATUS regen | ready for review |
 
 Note: sessions 0004–0006 predate 0002–0003 in wall-clock time — the sequence reflects merge order, the dates reflect when the work happened (see convention above).

@@ -12,20 +12,9 @@
 | task | tier | status | depends on |
 |------|------|--------|-----------|
 | `phase0-001-liupai-enumeration` — 八字流派与方法族枚举 | 1 | **done** (session 0005; duplicate run s0009 superseded) | — |
-| `phase0-002-source-obtainability` — 一手文献可得性与存续清查 | 1 | **done·provisional** (s0010) — 研究者决定：或以 deep-research 重做，修订暂缓 | — |
-| `phase0-003-draft-boundary` — 起草 boundary.md v0 | 2 | todo (unblocked; Tier-2 须授权；002 若重做或需重开) | ~~001~~, ~~002~~ |
+| `phase0-002-source-obtainability` — 一手文献可得性与存续清查 | 1 | todo — s0010 曾产出 v0（输出已撤回，或以 deep-research 重做；git history `8a9ccec`） | — |
+| `phase0-003-draft-boundary` — 起草 boundary.md v0 | 2 | blocked | ~~001~~, 002 |
 | `phase0-004-school-profile-fanout` — 逐流派一页 profile（fan-out） | 1 | todo (unblocked) | ~~001~~ |
-
-## Intake — 文本入库（源自 phase0-002 清查；随 002 重做决定一并复审）
-
-| task | tier | status | depends on |
-|------|------|--------|-----------|
-| `intake-001-三命通会` — ctext 转写+四库扫描双形态 | 1 | todo | — |
-| `intake-002-渊海子平` — 宋核明辑，层积标注 | 1 | todo | — |
-| `intake-003-子平真诠评注` — ⚠ 剥层：沈原文 vs 徐评注 | 1 | todo | — |
-| `intake-004-李虚中命书` — 古法代表，托名存疑 | 1 | todo | — |
-| `intake-005-滴天髓原文` — 只入赋文层 | 1 | todo | — |
-| `intake-006-穷通宝鉴` — 并立造化元钥异本比对案 | 1 | todo | — |
 
 ## Slice 1 — calendar / time module (§7), one component per task
 
@@ -47,7 +36,7 @@
 | task | tier | status | depends on |
 |------|------|--------|-----------|
 | `meta-001-source-reliability-metric` — reliability metric + encounter register | 2 | **done** (session 0006) | — |
-| `meta-002-wenxianxue-subgrading` — A-class sub-grading from 文献学 (deferred half of meta-001) | 2 | todo (s0010 survey 的甲/乙/丙分级是其粗稿素材) | — |
+| `meta-002-wenxianxue-subgrading` — A-class sub-grading from 文献学 (deferred half of meta-001) | 2 | todo | — |
 
 ## Study track — researcher's parallel study plan (`/study/`)
 
@@ -59,5 +48,5 @@ Note: `slice1-train-001/002` deliverables re-pointed into `/study/quizzes/` (DES
 
 ## Notes
 - The 流派 taxonomy is a Phase-0 **output**, not a founding assumption — the current 6-school layout in `/schools/` is s0005's, provisional by design.
-- phase0-002 status is **provisional** by researcher decision (2026-07-28): main's 001 depth raised the bar; a deep-research redo of 002 is under consideration. Do not build load-bearing work on the s0010 survey without checking.
+- phase0-002 ran once (s0010) but its output was withdrawn before review — main's 001 depth raised the bar and a deep-research redo is under consideration. The v0 survey + 6 intake definitions live only in git history (`8a9ccec`); do not cite or build on them.
 - These definitions are provisional — the researcher reviews and adjusts before depth sessions are authorized.

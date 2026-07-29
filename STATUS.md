@@ -14,20 +14,21 @@
 
 ## Research engine
 
-- **Done:** `phase0-001` (s0005; duplicate run s0009 superseded) · `phase0-002` (s0010 — **provisional**, deep-research redo under consideration) · `slice1-eng-001` (s0004) · `meta-001` (s0006) · `study-001` (s0003)
-- **Last session:** 0011 `meta:` — merged main into calibration branch; adjudicated duplicated phase0-001 (main's s0005 adopted; 三问互补假说 preserved to `/schools/三问互补假说.md`); renumbered s0009/s0010
-- **Ready (Tier 1):** `phase0-004` fan-out (against s0005's 6 schools) · `intake-001..006` (⚠ under the 002-provisional caveat)
-- **Ready (Tier 2, researcher must authorize):** `phase0-003` boundary.md (raw material stockpiled in 分歧维度 §二; may need re-opening if 002 is redone) · `slice1-eng-002/003/004` · `meta-002` (s0010's 甲/乙/丙 grading is draft material for it)
-- **Awaiting researcher review:** branch `claude/columbia-spirituality-program-ny7ccd` (this merge-sync + sessions 0009–0011)
+- **Done:** `phase0-001` (s0005; duplicate run s0009 superseded) · `slice1-eng-001` (s0004) · `meta-001` (s0006) · `study-001` (s0003)
+- **Last session:** 0011 `meta:` — merged main into calibration branch; adjudicated duplicated phase0-001 (main's s0005 adopted; 三问互补假说 preserved to `/schools/三问互补假说.md`); renumbered s0009/s0010; phase0-002's s0010 output withdrawn (redo pending, git history `8a9ccec`)
+- **Ready (Tier 1):** `phase0-004` fan-out (against s0005's 6 schools) · `phase0-002` (re-run — recommend deep-research grade this time)
+- **Ready (Tier 2, researcher must authorize):** `slice1-eng-002/003/004` · `meta-002`
+- **Blocked:** `phase0-003` boundary.md (on 002)
+- **Awaiting researcher review:** branch `claude/columbia-spirituality-program-ny7ccd` (seed + 三问假说 + merge-sync; sessions 0009–0011)
 
 ## Loop health
 
 - **Open questions:** 0 (`study/questions.md` empty) · **Write-backs this cycle:** n/a · **Promotions pending:** none
-- **Standing caveat:** phase0-002 outputs (survey + intake definitions) are provisional by researcher decision (2026-07-28) — check before building on them.
+- **Standing caveat:** phase0-002's s0010 output was withdrawn before review — it lives only in git history (`8a9ccec`); do not cite or build on it.
 
 ## Next actions (ranked)
 
 1. **Researcher: review & merge this branch** — closes the duplicated-work episode; everything below is gated on it.
-2. **Decide phase0-002's fate** — redo with deep research (s0005-grade depth: register rows, RELIABILITY labels, obtainability re-verification) vs. accept s0010 with a revision pass.
-3. **Authorize the next depth task** — `phase0-004` (profile fan-out) is the natural continuation of s0005; `intake-001` (三命通会) starts converting `unverified`→verified but sits under the 002 caveat.
+2. **Re-run phase0-002** — recommend deep-research grade (register rows, RELIABILITY labels, obtainability verification); the withdrawn v0 is available in history as raw material.
+3. **Authorize the next depth task** — `phase0-004` (profile fan-out) is the natural continuation of s0005.
 4. **Hold the first weekly review** (study engine) — unchanged from previous STATUS.
